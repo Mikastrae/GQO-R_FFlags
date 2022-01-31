@@ -1,4 +1,5 @@
 {
-    "ForceStudioDebugMode": true,
-    "AllowCharacterCameraFacing": false
+    "ForceStudioDebugMode": false,
+    "AllowCharacterCameraFacing": false,
+    "OnlyAllowTesters": true
 }
